@@ -68,14 +68,4 @@ The model is trained for 200 epochs using the Adam optimizer.
 - `scaler.transform()`: Scales the last row of the data.
 - `model(input_tensor)`: Makes a prediction using the trained model.
 
-## Limitations
 
-The code is tailored to a specific dataset and may require modification to be used with different datasets or additional features.
-
-## License
-
-Include information about the license here.
-
-## Contact
-
-If you have any questions or need further assistance, please feel free to reach out.
